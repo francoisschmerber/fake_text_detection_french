@@ -1,0 +1,18 @@
+[
+  {
+    "file": "paris.json",
+    "description": "machine: texte généré 1"
+  },
+  {
+    "file":   "cyclistes.json",
+    "description": "machine: texte généré 2"
+  },
+  {
+    "file": "borne.json",
+    "description": "humain: Elisabeth Borne"
+  },
+  {
+    "file": "hugo.json",
+    "description": "humain: Les Misérables"
+  }
+]
